@@ -18,7 +18,7 @@
     "@headlessui/react": "^1.7.17",
     "@heroicons/react": "^2.0.18",
     "@mui/icons-material": "^5.14.13",
-    "@mui/material": "^5.14.13",
+    "@mui/material": "^5.15.10",
     "@reduxjs/toolkit": "^1.9.5",
     "axios": "^1.6.0",
     "html2canvas": "^1.4.1",
